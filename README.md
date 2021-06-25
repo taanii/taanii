@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taanii&show_icons=true&locale=en&layout=compact" alt="taanii" /></p>
 
-<p>\<img align="center" src="https://github-readme-stats.vercel.app/api?username=taanii&show_icons=true&locale=en" alt="taanii" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taanii&show_icons=true&locale=en" alt="taanii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taanii&" alt="taanii" /></p>
