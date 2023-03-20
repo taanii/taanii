@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/taaniii13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_chaitanyaa" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/taaniii13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_chaitanyaa" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/chaitanya-keerthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/chaitanya-keerthi/" height="30" width="40" /></a>
-<a href="https://fb.com/chaitanyaa.keerthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chaitanyaa.keerthi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/taani13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="taani13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/taani13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taani13" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/chaitanyaa.keerthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chaitanyaa.keerthi" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/taani13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="taani13" height="30" width="40" /></a> -->
+<!-- <a href="https://www.hackerrank.com/taani13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taani13" height="30" width="40" /></a> -->
 <a href="https://discord.gg/taani#6302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taani#6302" height="30" width="40" /></a>
 </p>
 
