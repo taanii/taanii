@@ -7,7 +7,7 @@
 
 - 🌍 I'm based in **Bangalore, India**
 
-- 📫 How to reach me **keerthichaitanyaa@gmail.com**
+- 📫 Reach me at **keerthichaitanyaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
