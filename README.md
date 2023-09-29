@@ -5,7 +5,7 @@
 
 - 🖥️ Check my portfolio at [https://taanii.github.io/c-k/](https://taanii.github.io/c-k/)
 
-- 🌍 I'm based in **Bangalore, India**
+- 🌍 I'm based in **Mumbai, India**
 
 - 📫 Reach me at **keerthichaitanyaa@gmail.com**
 
