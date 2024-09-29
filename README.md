@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Keerthi</h1>
-<h3 align="center">Front End developer</h3>
+<h3 align="center">Front End Developer</h3>
 
-- 🌱 I’m currently learning **NodeJs and Svelte**
-
-- 🖥️ Check my portfolio at [https://taanii.github.io/c-k/](https://taanii.github.io/c-k/)
-
+- 🌱 I’m currently learning **ReactJs**
+  
 - 🌍 I'm based in **Mumbai, India**
 
 - 📫 Reach me at **keerthichaitanyaa@gmail.com**
