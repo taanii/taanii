@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Keerthi</h1>
-<h3 align="center">Front End Developer</h3>
+<h1 align="center">Hi 👋, I'm Chaitanya</h1>
+<h3 align="center">Cybersecurity Associate</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+
+- 💻 I work in **Cyberstrategy** 
   
-- 🌍 I'm based in **Mumbai, India**
+- 🌍 I'm based in **Navi Mumbai, India**
 
-- 📫 Reach me at **keerthichaitanyaa@gmail.com**
+<!-- 
+- 📫 Reach me at **keerthichaitanyaa@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
